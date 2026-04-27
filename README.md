@@ -1,6 +1,6 @@
 # 🥗 RecipeRise
 
-![RecipeRise Banner](Insert_Your_Banner_Image_Link_Here)
+<img width="311" height="680" alt="splash" src="https://github.com/user-attachments/assets/6ec82c29-36f9-4866-baa7-48f8a38cb4bf" />
 
 > A smart personal wellness application offering tailored meal plans and custom workout routines based on unique user data and health goals.
 
