@@ -19,11 +19,7 @@ RecipeRise is designed to make personal health and fitness journeys intuitive an
 
 ## 📱 Screenshots
 | Onboarding | Meal Plan | Workout Routine | Profile |
-<img width="383" height="855" alt="onboarding1" src="https://github.com/user-attachments/assets/5acb6875-2f92-4362-bb83-b31e17ee745e" />
-<img width="393" height="855" alt="onboarding2" src="https://github.com/user-attachments/assets/bf7caa47-166c-4302-9925-1273ce972ffa" />
-<img width="444" height="894" alt="Screenshot 2025-05-18 185109" src="https://github.com/user-attachments/assets/5b3e9169-5652-4a0a-a892-936db8d28303" />
-<img width="446" height="903" alt="Screenshot 2025-05-18 185019" src="https://github.com/user-attachments/assets/a6023308-5d7b-4d19-bfc6-c638094c21e6" />
-<img width="444" height="905" alt="Screenshot 2025-05-18 185349" src="https://github.com/user-attachments/assets/783c31f6-20c8-477e-901d-5836a9ed1d6d" />
+<img width="383" height="855" alt="onboarding1" src="https://github.com/user-attachments/assets/5acb6875-2f92-4362-bb83-b31e17ee745e" /><img width="393" height="855" alt="onboarding2" src="https://github.com/user-attachments/assets/bf7caa47-166c-4302-9925-1273ce972ffa" /><img width="444" height="894" alt="Screenshot 2025-05-18 185109" src="https://github.com/user-attachments/assets/5b3e9169-5652-4a0a-a892-936db8d28303" /><img width="446" height="903" alt="Screenshot 2025-05-18 185019" src="https://github.com/user-attachments/assets/a6023308-5d7b-4d19-bfc6-c638094c21e6" /><img width="444" height="905" alt="Screenshot 2025-05-18 185349" src="https://github.com/user-attachments/assets/783c31f6-20c8-477e-901d-5836a9ed1d6d" />
 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/eaad0628-a848-40f8-8298-32477e4b90b6" />
 
 
